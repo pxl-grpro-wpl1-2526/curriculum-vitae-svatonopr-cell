@@ -52,8 +52,9 @@ tr, td, th,table {
     padding: 5px;
     border: solid 1px lightgray;
     background: #f5f5f5;
-
-
+}
+table {
+    border-radius: 5px;
 }
 .bas {
     background-color: rgb(229, 255, 0);
