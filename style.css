@@ -1,0 +1,32 @@
+.photo img {
+    width: 100%;
+    height: auto;
+}
+.photo {
+    display: flex;
+    padding: 10px;
+    border: solid 2px lightgray;
+    border-radius: 5px;
+    width: 10%;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.text {
+    padding: 10px;
+    border: solid 2px lightgray;
+    border-radius: 5px; 
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a span {
+    color: white;
+    background-color: rgba(13, 110, 253, 1);
+    border-radius: 3px;
+    
+}
