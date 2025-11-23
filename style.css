@@ -89,3 +89,26 @@ tr, td, th,table {
     margin-top: 10px;
     color: #333;
 }
+footer {
+    margin-top: auto;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+footer a {
+    
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px;
+    padding: 2px;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
